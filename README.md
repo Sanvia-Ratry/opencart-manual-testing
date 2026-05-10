@@ -30,4 +30,4 @@ Manual test report for [OpenCart](https://www.opencart.com) covering Registratio
 - Showcase, Change password, Logout
 - Orders, Downloads, Stores
 
-## 📁 Files 
+## 📁 Files
